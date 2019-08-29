@@ -5,6 +5,7 @@
 //  Created by Kyle Moga on 8/29/19.
 //  Copyright © 2019 Kyle Moga. All rights reserved.
 //
+//The advantage of coding in an array is that it saves space and makes it easier to figure out by assigning different strings to numbers in the array starting with 0 (and in our case ending at 3). 
 
 import UIKit
 
